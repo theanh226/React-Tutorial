@@ -1,4 +1,7 @@
 <h1>React JS</h1>
+<h3>Change port in react-app</h3>
+<p>"start": "set PORT=3001 && react-scripts start" in package.json</p>
+</hr>
 <h3>Embed the bootstrap into the app</h3>
 <br>
 <p>
@@ -16,3 +19,4 @@
 </p>
 <h3>Sass and React app</h3>
 <p>follow the link <a href="https://medium.com/front-end-hacking/how-to-add-sass-or-scss-to-create-react-app-c303dae4b5bc">How to add SASS/SCSS to a create-react-app Project</a></p>
+
