@@ -20,5 +20,5 @@
 <h3>Sass and React app</h3>
 <p>follow the link <a href="https://medium.com/front-end-hacking/how-to-add-sass-or-scss-to-create-react-app-c303dae4b5bc">How to add SASS/SCSS to a create-react-app Project</a></p>
 <h3>Webpack Configuration for Using Bootstrap in React</h3>
-<p> follow the link<href="https://medium.com/@vladbezden/webpack-configuration-for-using-bootstrap-in-react-a6ef2dfa1d95"> </a></p>
+<p> follow the link <a href="https://medium.com/@vladbezden/webpack-configuration-for-using-bootstrap-in-react-a6ef2dfa1d95"> </a></p>
 
